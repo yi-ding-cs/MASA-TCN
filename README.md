@@ -1,5 +1,6 @@
 # MASA-TCN
 The PyTorch implementation of MASA-TCN
+
 [MASA-TCN: Multi-anchor Space-aware Temporal Convolutional Neural Networks for Continuous and Discrete EEG Emotion Recognition](https://arxiv.org/abs/2308.16207)
 ## Example of the usage
 ```python
