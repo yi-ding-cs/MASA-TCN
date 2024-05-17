@@ -89,13 +89,14 @@ Thanks for [Dr. Zhang Su](https://github.com/sucv) for his kind help on code che
 Please cite our paper if you use our code in your own work:
 
 ```
-@misc{ding2023masatcn,
-      title={MASA-TCN: Multi-anchor Space-aware Temporal Convolutional Neural Networks for Continuous and Discrete EEG Emotion Recognition}, 
-      author={Yi Ding and Su Zhang and Chuangao Tang and Cuntai Guan},
-      year={2023},
-      eprint={2308.16207},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-
+@ARTICLE{10506986,
+  author={Ding, Yi and Zhang, Su and Tang, Chuangao and Guan, Cuntai},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={MASA-TCN: Multi-Anchor Space-Aware Temporal Convolutional Neural Networks for Continuous and Discrete EEG Emotion Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Electroencephalography;Kernel;Task analysis;Brain modeling;Emotion recognition;Feature extraction;Convolutional neural networks;Temporal convolutional neural networks (TCN);emotion recognition;electroencephalogram (EEG)},
+  doi={10.1109/JBHI.2024.3392564}}
 ```
