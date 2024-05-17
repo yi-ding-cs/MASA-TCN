@@ -77,7 +77,7 @@ net = MASA_TCN(
 preds = net(data)
 ```
 # Acknowledgement
-Thanks for [Dr. Zhang Su](https://github.com/sucv) for his kind help on code checking and optimization. 
+Thanks to [Dr. Zhang Su](https://github.com/sucv) for his kind help with code checking and optimization. 
 # CBCR License
 | Permissions | Limitations | Conditions |
 | :---         |     :---:      |          :---: |
