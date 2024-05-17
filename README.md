@@ -12,11 +12,11 @@ Note that it might pop some error messages when you create the dataset by using 
 
 The exact folder/files to be edit include:
 
-A. Sessions/1200/P10-Rec1-All-Data-New_Section_30.tsv - Remove Line 3169-3176 as their format is broken.
+A. Sessions/1200/P10-Rec1-All-Data-New_Section_30.tsv - `Remove Line 3169-3176 as their format is broken`.
 
-B. Sessions/1854 - Remove this trial folder as it does not contain EEG recordings.
+B. Sessions/1854 - `Remove this trial folder as it does not contain EEG recordings`.
 
-C. Sessions/1984 - Remove this trial folder as it does not contain EEG recordings.
+C. Sessions/1984 - `Remove this trial folder as it does not contain EEG recordings`.
 
 # Create the enviroment
 Please create an anaconda virtual environment by:
@@ -34,11 +34,11 @@ Install the requirements by:
 Install the torch for GPU using the commend on https://pytorch.org/get-started/previous-versions/#v1110
 
 # Run the code
-Step 1: Check the config.py file first and change the parameters accordingly. Mainly, update the "root_directory" and "output_root_directory" according to your data location.
+Step 1: Check the config.py file first and change the parameters accordingly. Mainly, update the `"root_directory"` and `"output_root_directory"` according to your data location.
 
 Step 2: Run generate_dataset.py.
 
-Step 3: Check the parameters in the main.py file and change them accordingly. Mainly, update the "-dataset_path", "-load_path", "-save_path", and "-python_package_path" according to your local directory.
+Step 3: Check the parameters in the main.py file and change them accordingly. Mainly, update the `"-dataset_path"`, `"-load_path"`, `"-save_path"`, and `"-python_package_path"` according to your local directory.
 
 Step 4: Run main.py to train and evaluate the network.
 
