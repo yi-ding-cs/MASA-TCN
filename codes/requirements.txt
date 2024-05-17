@@ -6,6 +6,4 @@ pandas
 Pillow
 scikit-learn
 scipy
-torch
-torchvision
 tqdm
