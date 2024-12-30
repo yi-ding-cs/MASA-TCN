@@ -94,9 +94,9 @@ Please cite our paper if you use our code in your own work:
   journal={IEEE Journal of Biomedical and Health Informatics}, 
   title={MASA-TCN: Multi-Anchor Space-Aware Temporal Convolutional Neural Networks for Continuous and Discrete EEG Emotion Recognition}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-12},
+  volume={28},
+  number={7},
+  pages={3953-3964},
   keywords={Electroencephalography;Kernel;Task analysis;Brain modeling;Emotion recognition;Feature extraction;Convolutional neural networks;Temporal convolutional neural networks (TCN);emotion recognition;electroencephalogram (EEG)},
   doi={10.1109/JBHI.2024.3392564}}
 ```
